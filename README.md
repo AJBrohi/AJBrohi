@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AJBrohi.AJBrohi)
 
 ## Most Used Language
-[!most_used_language] (https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrohi&layout=compact)
+<a href="https://github.com/AJBrohi/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrohi&layout=compact" />
+</a>
