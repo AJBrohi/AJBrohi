@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AJBrohi.AJBrohi)
+
+## Most Used Language
+[!most_used_language] (https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrohi&layout=compact)
