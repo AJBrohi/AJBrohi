@@ -4,7 +4,7 @@ I am a final year computer science student who is interested in Web Development,
 - 🌱 I’m currently learning JS, RestAPI, JSON, React.
 - 👯 I’m looking to collaborate on a tech project integrating AI and Machine Learning
 
-Reach out to me on :point_right: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:md.al.junaed.islam@g.bracu.ac.bd)](mailto:md.al.junaed.islam@g.bracu.ac.bd)
+Reach out to me on :point_right: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:md.al.junaed.islam@g.bracu.ac.bd)](mailto:brohi96@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/al-junaed/)](https://www.linkedin.com/in/al-junaed/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/a.j.brohi/)
 
