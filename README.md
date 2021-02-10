@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Al-Junaed Islam's Github Stats](https://github-readme-stats.vercel.app/api?username=AJBrohi&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AJBrohi.AJBrohi)
