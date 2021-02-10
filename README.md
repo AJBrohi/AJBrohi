@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=AJBrohi.AJBrohi)
+<!--![Profile_Views](https://visitor-badge.glitch.me/badge?page_id=AJBrohi.AJBrohi)-->
+<img src="https://komarev.com/ghpvc/?username=AJBrohi" alt="AJBrohi" />
