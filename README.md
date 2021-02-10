@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ![Al-Junaed Islam's Github Stats](https://github-readme-stats.vercel.app/api?username=AJBrohi&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Most Used Language
 <a href="https://github.com/AJBrohi/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrohi&langs_count=10&theme=tokyonight&layout=compact" alt="AJBrohi :: Top Used Languages" />
 </a>
