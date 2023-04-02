@@ -25,6 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Learn More about JavaScript](https://ajbrohi.medium.com/lets-learn-more-about-javascript-75d926a5e4e3?source=rss-d915dc615783------2)
+- [React Virtual-DOM and JSX](https://ajbrohi.medium.com/react-virtual-dom-and-jsx-f90fc3c8d9e2?source=rss-d915dc615783------2)
+- [JavaScript Data Types, and Error Handling with a little bit of ES6](https://ajbrohi.medium.com/javascript-data-types-and-error-handling-with-a-little-bit-of-es6-4c4824f3755a?source=rss-d915dc615783------2)
+- [A Glimpse of JavaScript’s String, Number and Arrays](https://ajbrohi.medium.com/a-glimpse-of-javascripts-string-number-and-arrays-774a3e7da03?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
