@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
-    with:
-      comment_tag_name: "BLOG-POST-LIST"
-      max_post_count: "4"
-      feed_list: "https://medium.com/feed/@ajbrohi"
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          max_post_count: "4"
+          feed_list: "https://medium.com/feed/@ajbrohi"
