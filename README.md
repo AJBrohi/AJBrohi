@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://ajbrohi.github.io/](https://ajbrohi.github.io/)
 
+<br>
+
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +23,7 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <!-- ### Connect with me -->
+<br>
 
 **📫 Reach out to me on :point_down:**
 
@@ -39,7 +42,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
-#### Languages and Tools
+### Languages and Tools
 
 <p align="left">
 <!-- Python -->
