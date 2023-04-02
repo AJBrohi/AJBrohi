@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Al-Junaed Islam</h1>
-<h3 align="center">A Passionate Developer From Bangladesh</h3>
+<h1 style="text-align: center;">Hi 👋, I'm Al-Junaed Islam</h1>
+<h3 style="text-align: center;">A Passionate Developer From Bangladesh</h3>
+
+<table>
+<tr>
+<td>
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python,JS, React**
+- 🌱 I’m currently learning **Python, JS, React**
 
 - 👯 I’m looking to collaborate on **Python Open-Source Projects**
 
@@ -12,45 +16,65 @@
 - 📫 How to reach me **brohi96@gmail.com**
 
 - 📄 Know about my experiences [https://ajbrohi.github.io/](https://ajbrohi.github.io/)
+</td>
+</tr>
 
-<br>
+<tr>
+<td>
 
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</td>
+</tr>
+</table>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <h3 style="text-align: center;">Connect with me:</h3> -->
 
 <!-- ### Connect with me -->
+
+<table>
+<tr>
+<td width="50%">
+
+<!-- **:point_down: Reach out to me on :point_down:** -->
+
+<h4 style="text-align: center;">Reach out to me on</h4>
+
 <br>
 
-**📫 Reach out to me on :point_down:**
-
-<p align="left">
+<p style="text-align: center;">
 <!-- Linkedin -->
-<a href="https://linkedin.com/in/al-junaed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-junaed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/al-junaed" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-junaed" height="30" width="40" /></a>
 <!-- Twitter -->
-<a href="https://twitter.com/brohi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brohi96" height="30" width="40" /></a>
-<!-- Facebook -->
-<a href="https://facebook.com/junaed.brohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaed.brohi" height="30" width="40" /></a>
-<!-- Medium -->
-<a href="https://medium.com/@ajbrohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajbrohi" height="30" width="40" /></a>
-<!-- Instagram -->
-<a href="https://instagram.com/a.j.brohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.j.brohi" height="30" width="40" /></a>
+<a href="https://twitter.com/brohi96" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brohi96" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<p style="text-align: center;">
+<!-- Facebook -->
+<a href="https://facebook.com/junaed.brohi" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaed.brohi" height="30" width="40" /></a>
+<!-- Medium -->
+<a href="https://medium.com/@ajbrohi" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajbrohi" height="30" width="40" /></a>
+<!-- Instagram -->
+<a href="https://instagram.com/a.j.brohi" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.j.brohi" height="30" width="40" /></a>
+</p>
+</td>
 
-### Languages and Tools
+<td width="50%">
 
-<p align="left">
+<h4 style="text-align: center;">Languages and Tools</h4>
+
+<p style="text-align: center;">
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!-- Javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+<p style="text-align: center;">
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <!-- CSS -->
@@ -59,6 +83,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <!-- Typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
+
+<p style="text-align: center;">
 <!-- ExpressJS -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <!-- NodeJS -->
@@ -71,12 +98,18 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
+</td>
+</tr>
+</table>
+
+<!-- <h3 style="text-align: center;">Languages and Tools:</h3> -->
+
 <!-- ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 -->
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
+<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en" alt="ajbrohi" /></p>
+<p>&nbsp;<img style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en" alt="ajbrohi" /></p>
 
 <!-- ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ajbrohi" /></p> -->
+<p><img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ajbrohi" /></p> -->
