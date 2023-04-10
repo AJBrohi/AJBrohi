@@ -25,10 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculate Your Tips Like A Pro with Python Tips Calculator](https://ajbrohi.medium.com/calculate-your-tips-like-a-pro-with-python-tips-calculator-f927e67d81bf?source=rss-d915dc615783------2)
 - [Calculating Your Remaining Life with Python — A Practical Project](https://ajbrohi.medium.com/calculating-your-remaining-life-with-python-a-practical-project-ef5c4d87594b?source=rss-d915dc615783------2)
 - [Generate Usernames with Python: A Simple Project for Beginners](https://ajbrohi.medium.com/generate-usernames-with-python-a-simple-project-for-beginners-5317e5ac7eb2?source=rss-d915dc615783------2)
 - [From Beginner to Pro: A Python Project Journal of Learning and Innovation](https://ajbrohi.medium.com/from-beginner-to-pro-a-python-project-journal-of-learning-and-innovation-60ede797a9c3?source=rss-d915dc615783------2)
-- [Let’s Learn More about JavaScript](https://ajbrohi.medium.com/lets-learn-more-about-javascript-75d926a5e4e3?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
