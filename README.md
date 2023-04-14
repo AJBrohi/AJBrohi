@@ -25,6 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Simple BMI Calculator Using Python: Step-by-Step Guide For Beginner](https://ajbrohi.medium.com/how-to-create-a-simple-bmi-calculator-using-python-step-by-step-guide-for-beginner-5176b2684737?source=rss-d915dc615783------2)
+- [Calculate Your Tips Like A Pro with Python Tips Calculator](https://ajbrohi.medium.com/calculate-your-tips-like-a-pro-with-python-tips-calculator-f927e67d81bf?source=rss-d915dc615783------2)
+- [Calculating Your Remaining Life with Python — A Practical Project](https://ajbrohi.medium.com/calculating-your-remaining-life-with-python-a-practical-project-ef5c4d87594b?source=rss-d915dc615783------2)
+- [Generate Usernames with Python: A Simple Project for Beginners](https://ajbrohi.medium.com/generate-usernames-with-python-a-simple-project-for-beginners-5317e5ac7eb2?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
