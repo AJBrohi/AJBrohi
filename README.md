@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <!-- **:point_down: Reach out to me on :point_down:** -->
 
@@ -72,7 +72,7 @@
 
 </div>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <div align="center">
 
@@ -114,29 +114,40 @@
 </div>
 </tr>
 </table>
-
-<!-- <h3 align="center">Languages and Tools:</h3> -->
-
-<!-- ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 -->
 <br>
 
-### :zap: Recent Activity
+<p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">Recent Activity</h4>
+
+---
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
----
+</td>
 
-### Stats
+<td width="50%" valign="top">
+
+<h4 align="center">Stats</h4>
 
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en" alt="ajbrohi" /></p>
 
----
+</td>
 
-<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
+</tr>
+</table>
 
 <!--
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ajbrohi" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ajbrohi" /></p>
+
+[![AJBrohi Medium](https://github-readme-medium.vercel.app/?username=ajbrohi&limit=3&bg=222f2e)](https://medium.com/@ajbrohi)
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=brohi96&layout=wide&show_reply=off&show_retweet=off)](https://twitter.com/Brohi96) -->
