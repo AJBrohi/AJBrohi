@@ -120,14 +120,14 @@
 <!-- ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 -->
 <br>
 
-### Stats
-
----
-
-#### :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
+
+---
+
+### Stats
 
 ---
 
