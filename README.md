@@ -114,10 +114,24 @@
 
 <!-- ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 -->
 <br>
-<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
+
+### Stats
+
+---
+
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en" alt="ajbrohi" /></p>
 
-<!-- ### Stats
+---
+
+<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=ajbrohi&label=Profile%20views&color=1e8acc&style=flat" alt="ajbrohi" /> </p>
+
+<!--
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajbrohi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ajbrohi" /></p> -->
