@@ -25,10 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Rock, Paper, Scissors — A Python Text-Based Game Pfroject](https://ajbrohi.medium.com/build-your-own-rock-paper-scissors-a-python-text-based-game-pfroject-c7672043435a?source=rss-d915dc615783------2)
 - [Secret Tunnel Game — A Python Project for Fun and Learning](https://ajbrohi.medium.com/secret-tunnel-game-a-python-project-for-fun-and-learning-90c124929467?source=rss-d915dc615783------2)
 - [A Fun Crush Compatibility Calculator Using Python](https://ajbrohi.medium.com/a-fun-crush-compatibility-calculator-using-python-196c26c700d?source=rss-d915dc615783------2)
 - [How to Create a Simple BMI Calculator Using Python: Step-by-Step Guide For Beginner](https://ajbrohi.medium.com/how-to-create-a-simple-bmi-calculator-using-python-step-by-step-guide-for-beginner-5176b2684737?source=rss-d915dc615783------2)
-- [Calculate Your Tips Like A Pro with Python Tips Calculator](https://ajbrohi.medium.com/calculate-your-tips-like-a-pro-with-python-tips-calculator-f927e67d81bf?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
   </td>
   </tr>
