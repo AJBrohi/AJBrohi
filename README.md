@@ -126,14 +126,14 @@
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AJBrohi/secret-tunnel](https://github.com/AJBrohi/secret-tunnel)<br>
-2. ⬆️ Pushed 1 commit(s) to [AJBrohi/remaining-life-calculator](https://github.com/AJBrohi/remaining-life-calculator)<br>
-3. ⬆️ Pushed 2 commit(s) to [AJBrohi/AJBrohi](https://github.com/AJBrohi/AJBrohi)<br>
-4. 💪 Opened PR [#1026](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1026) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-5. ⬆️ Pushed 1 commit(s) to [AJBrohi/awesome-github-profile-readme](https://github.com/AJBrohi/awesome-github-profile-readme)<br>
+1. ⬆️ Pushed 1 commit(s) to [AJBrohi/rock-paper-scissors-game](https://github.com/AJBrohi/rock-paper-scissors-game)<br>
+2. ⬆️ Pushed 1 commit(s) to [AJBrohi/secret-tunnel](https://github.com/AJBrohi/secret-tunnel)<br>
+3. ⬆️ Pushed 1 commit(s) to [AJBrohi/remaining-life-calculator](https://github.com/AJBrohi/remaining-life-calculator)<br>
+4. ⬆️ Pushed 2 commit(s) to [AJBrohi/AJBrohi](https://github.com/AJBrohi/AJBrohi)<br>
+5. 💪 Opened PR [#1026](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1026) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 20th, 2023, 12:58:48 AM
+Last Updated: Friday, April 21st, 2023, 12:58:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
