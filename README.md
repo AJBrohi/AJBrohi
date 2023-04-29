@@ -25,10 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Undercover Auction: A Python Game to Test Your Bidding Skills](https://ajbrohi.medium.com/undercover-auction-a-python-game-to-test-your-bidding-skills-88fc9d9b010c?source=rss-d915dc615783------2)
 - [Secure Your Messages with Caesar Cipher in Python](https://ajbrohi.medium.com/secure-your-messages-with-caesar-cipher-in-python-31f2a3db1eb8?source=rss-d915dc615783------2)
 - [Hangman Game in Python — A Beginners Guide](https://ajbrohi.medium.com/hangman-game-in-python-a-beginners-guide-b93b19021ad7?source=rss-d915dc615783------2)
 - [Create Your Own Random Password Generator Using Python: A Project for Beginner](https://ajbrohi.medium.com/create-your-own-random-password-generator-using-python-a-project-for-beginner-239f6b1489f0?source=rss-d915dc615783------2)
-- [Build Your Own Rock, Paper, Scissors — A Python Text-Based Game Project](https://ajbrohi.medium.com/build-your-own-rock-paper-scissors-a-python-text-based-game-pfroject-c7672043435a?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
   </td>
   </tr>
