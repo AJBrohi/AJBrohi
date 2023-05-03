@@ -25,10 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Draw or Pass: A Fun Blackjack Game in Python from Scratch](https://ajbrohi.medium.com/draw-or-pass-a-fun-blackjack-game-in-python-from-scratch-809f8c2512df?source=rss-d915dc615783------2)
 - [Build Your Own Multi-Functional Python Calculator Using Math](https://ajbrohi.medium.com/build-your-own-multi-functional-python-calculator-using-math-ede2f49c8995?source=rss-d915dc615783------2)
 - [Undercover Auction: A Python Game to Test Your Bidding Skills](https://ajbrohi.medium.com/undercover-auction-a-python-game-to-test-your-bidding-skills-88fc9d9b010c?source=rss-d915dc615783------2)
 - [Secure Your Messages with Caesar Cipher in Python](https://ajbrohi.medium.com/secure-your-messages-with-caesar-cipher-in-python-31f2a3db1eb8?source=rss-d915dc615783------2)
-- [Hangman Game in Python — A Beginners Guide](https://ajbrohi.medium.com/hangman-game-in-python-a-beginners-guide-b93b19021ad7?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
   </td>
   </tr>
