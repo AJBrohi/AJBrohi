@@ -25,10 +25,10 @@
 **📕 Latest medium posts [@ajbrohi](https://ajbrohi.medium.com/)**
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Juice Bar in Python: A Step-by-Step Guide](https://ajbrohi.medium.com/how-to-build-a-juice-bar-in-python-a-step-by-step-guide-dfd7e5d42901?source=rss-d915dc615783------2)
 - [Higher Lower Game in Python: TV Show Ratings](https://ajbrohi.medium.com/higher-lower-game-in-python-tv-show-ratings-85322b5c936?source=rss-d915dc615783------2)
 - [Draw or Pass: A Fun Blackjack Game in Python from Scratch](https://ajbrohi.medium.com/draw-or-pass-a-fun-blackjack-game-in-python-from-scratch-809f8c2512df?source=rss-d915dc615783------2)
 - [Build Your Own Multi-Functional Python Calculator Using Math](https://ajbrohi.medium.com/build-your-own-multi-functional-python-calculator-using-math-ede2f49c8995?source=rss-d915dc615783------2)
-- [Undercover Auction: A Python Game to Test Your Bidding Skills](https://ajbrohi.medium.com/undercover-auction-a-python-game-to-test-your-bidding-skills-88fc9d9b010c?source=rss-d915dc615783------2)
 <!-- BLOG-POST-LIST:END -->
   </td>
   </tr>
