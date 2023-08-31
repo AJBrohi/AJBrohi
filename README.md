@@ -126,14 +126,9 @@
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AJBrohi/quizwiz-py](https://github.com/AJBrohi/quizwiz-py)<br>
-2. ⬆️ Pushed 1 commit(s) to [AJBrohi/quizwiz-py](https://github.com/AJBrohi/quizwiz-py)<br>
-3. ⬆️ Pushed 1 commit(s) to [AJBrohi/quizwiz-py](https://github.com/AJBrohi/quizwiz-py)<br>
-4. ⬆️ Pushed 1 commit(s) to [AJBrohi/quizwiz-py](https://github.com/AJBrohi/quizwiz-py)<br>
-5. ⬆️ Pushed 1 commit(s) to [AJBrohi/quizwiz-py](https://github.com/AJBrohi/quizwiz-py)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 30th, 2023, 12:51:00 AM
+Last Updated: Thursday, August 31st, 2023, 12:51:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
